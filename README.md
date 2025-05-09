@@ -18,9 +18,4 @@ This project is focused on bird call classification using various machine learni
 - EfficientViT and SimCLR models for training and inference.
 - Comprehensive data preprocessing and spectrogram creation.
 
-## Installation
-To install the project, follow these steps:
-```bash
-git clone https://github.com/iitdamansharma/AI-Powered-Code-Assistant.git
-cd Bird_CLEF_2024-main
-pip install -r requirements.txt
+
